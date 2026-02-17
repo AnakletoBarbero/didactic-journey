@@ -1,0 +1,53 @@
+  body {
+    background-image:url("https://storage.googleapis.com/msgsndr/KZxaM3eFRn98uvYu0IuF/media/6994e8b6a9efde2f53f86bec.png"),  url("https://storage.googleapis.com/msgsndr/KZxaM3eFRn98uvYu0IuF/media/69945f7e64c0d1696d011b8a.jpg") ;
+    background-repeat: repeat;
+    background-size: auto;
+}
+  .bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-size: 48px;
+  font-style: normal;
+  color: #c69e43ff;
+}
+  .fnlMain-index-scaleframework {
+  height: 50px;
+  margin-top: -10px;
+}
+  #button-94yzD4yj4B_btn, #button-SY068lZrV7_btn {
+    background-image: url("https://storage.googleapis.com/msgsndr/KZxaM3eFRn98uvYu0IuF/media/69943f031d5e043ee3812c1c.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: "Avenir" serif;
+}
+  #button-8TPRaC0vtW_btn {
+  background-color: white;
+  font-family: "Avenir" serif;
+    
+}
+  #fnlMain-index-div {
+  width: 100%;
+  margin-top: -20px;
+}
+  #fnlMain-index-scale {
+  height: 50px;
+}
+  #fnlMain-index-team {
+  width: 70%;
+  z-index: -100;
+}
+  #fnlMain-index-fade {
+  width: 100%;
+  height: 300px;
+  z-index: 100;
+  margin-top: -270px;
+}
+  #fnlMain-index-div-black {
+  width: 60%;
+  margin-top: -20px;
+}
+  #fnlMain-index-team-head {
+  width: 50%;
+  height: 100%;
+  margin-bottom: -50px;
+}
