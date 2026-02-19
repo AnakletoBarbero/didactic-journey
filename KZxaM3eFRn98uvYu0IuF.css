@@ -14,7 +14,7 @@
   height: 50px;
   margin-top: -10px;
 }
-  #button-94yzD4yj4B_btn, #button-SY068lZrV7_btn {
+  #button-94yzD4yj4B_btn, #button-SY068lZrV7_btn, #button-z3F1pHtgN2_btn, #button-I7Y24pEmPw_btn {
     background-image: url("https://storage.googleapis.com/msgsndr/KZxaM3eFRn98uvYu0IuF/media/69943f031d5e043ee3812c1c.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -50,4 +50,12 @@
   width: 50%;
   height: 100%;
   margin-bottom: -50px;
+}
+  #fnlEguide-index-div-black {
+  width: 80%;
+  margin-top: -20px;
+}
+  #fnlEguide-index-div {
+  width: 80%;
+  margin-top: -20px;
 }
